@@ -1,0 +1,2 @@
+F:\8th Semester\C#\FINAL\Code\Final Lab task 2\FinalLabTask2\FinalLabTask2\obj\Debug\FinalLabTask2.csprojAssemblyReference.cache
+F:\8th Semester\C#\FINAL\Code\Final Lab task 2\FinalLabTask2\FinalLabTask2\obj\Debug\FinalLabTask2.csproj.CoreCompileInputs.cache
