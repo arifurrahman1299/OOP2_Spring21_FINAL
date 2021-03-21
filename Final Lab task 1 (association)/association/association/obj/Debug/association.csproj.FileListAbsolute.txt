@@ -1,7 +1,0 @@
-F:\8th Semester\C#\FINAL\Code\Final Lab task 1 (association)\association\association\bin\Debug\association.exe.config
-F:\8th Semester\C#\FINAL\Code\Final Lab task 1 (association)\association\association\bin\Debug\association.exe
-F:\8th Semester\C#\FINAL\Code\Final Lab task 1 (association)\association\association\bin\Debug\association.pdb
-F:\8th Semester\C#\FINAL\Code\Final Lab task 1 (association)\association\association\obj\Debug\association.csprojAssemblyReference.cache
-F:\8th Semester\C#\FINAL\Code\Final Lab task 1 (association)\association\association\obj\Debug\association.csproj.CoreCompileInputs.cache
-F:\8th Semester\C#\FINAL\Code\Final Lab task 1 (association)\association\association\obj\Debug\association.exe
-F:\8th Semester\C#\FINAL\Code\Final Lab task 1 (association)\association\association\obj\Debug\association.pdb
