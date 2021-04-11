@@ -1,0 +1,10 @@
+F:\8th Semester\C#\FINAL\Code\DataInsertion_DB\DataInsertion_DB\bin\Debug\DataInsertion_DB.exe.config
+F:\8th Semester\C#\FINAL\Code\DataInsertion_DB\DataInsertion_DB\bin\Debug\DataInsertion_DB.exe
+F:\8th Semester\C#\FINAL\Code\DataInsertion_DB\DataInsertion_DB\bin\Debug\DataInsertion_DB.pdb
+F:\8th Semester\C#\FINAL\Code\DataInsertion_DB\DataInsertion_DB\obj\Debug\DataInsertion_DB.csprojAssemblyReference.cache
+F:\8th Semester\C#\FINAL\Code\DataInsertion_DB\DataInsertion_DB\obj\Debug\DataInsertion_DB.Form1.resources
+F:\8th Semester\C#\FINAL\Code\DataInsertion_DB\DataInsertion_DB\obj\Debug\DataInsertion_DB.Properties.Resources.resources
+F:\8th Semester\C#\FINAL\Code\DataInsertion_DB\DataInsertion_DB\obj\Debug\DataInsertion_DB.csproj.GenerateResource.cache
+F:\8th Semester\C#\FINAL\Code\DataInsertion_DB\DataInsertion_DB\obj\Debug\DataInsertion_DB.csproj.CoreCompileInputs.cache
+F:\8th Semester\C#\FINAL\Code\DataInsertion_DB\DataInsertion_DB\obj\Debug\DataInsertion_DB.exe
+F:\8th Semester\C#\FINAL\Code\DataInsertion_DB\DataInsertion_DB\obj\Debug\DataInsertion_DB.pdb
